@@ -5,7 +5,6 @@
 - [일정](https://github.com/typescript-study/TypeScript-Study/wiki/calendar)
 - [팀원](https://github.com/typescript-study/TypeScript-Study/wiki/member)
 - [공부자료](https://github.com/typescript-study/TypeScript-Study/wiki/resources)
-- [번역가이드 및 규칙](https://github.com/typescript-study/TypeScript-Study/wiki/translation-rules)
 
 ## [프로젝트](https://github.com/orgs/typescript-study/projects)
 - [통합 이슈](https://github.com/typescript-study/docuement-wiki/issues)
